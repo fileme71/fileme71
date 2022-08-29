@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Rodolpho Fileme
+- 👋 Oi, eu sou Rodolpho Fileme!
 - 👀 Estou interessado em Arquitetura/Engenharia de Dados, Programação em Python e Análise de Dados
 - 🌱 Tenho experiência com Excel, Power BI, SQL e estou aprendendo Python. Também faço um Tecnólogo de Arquitetura em Dados.
 - 💞️ Atualmente eu tenho um projeto pessoal em andamento. Um dos motivos que me fizeram aprender linguagem de programação.
